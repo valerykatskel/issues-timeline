@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/issues-timeline/static/css/main.901632e1.css",
+    "main.js": "/issues-timeline/static/js/main.95626a9c.js",
+    "index.html": "/issues-timeline/index.html",
+    "main.901632e1.css.map": "/issues-timeline/static/css/main.901632e1.css.map",
+    "main.95626a9c.js.map": "/issues-timeline/static/js/main.95626a9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.901632e1.css",
+    "static/js/main.95626a9c.js"
+  ]
+}
