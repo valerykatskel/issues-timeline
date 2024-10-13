@@ -106,6 +106,13 @@ export default [
   },
   {
     "Priority": "Critical",
+    "Status": "In Progress",
+    "Created": "11/Oct/24 15:27",
+    "Resolved": "",
+    "Custom field (Resolution date)": ""
+  },
+  {
+    "Priority": "Critical",
     "Status": "Closed",
     "Created": "30/Aug/24 12:18",
     "Resolved": "04/Oct/24 13:07",
@@ -298,13 +305,6 @@ export default [
     "Status": "Closed",
     "Created": "08/Oct/24 18:49",
     "Resolved": "11/Oct/24 15:53",
-    "Custom field (Resolution date)": ""
-  },
-  {
-    "Priority": "Critical",
-    "Status": "New tasks",
-    "Created": "11/Oct/24 15:27",
-    "Resolved": "",
     "Custom field (Resolution date)": ""
   },
   {
@@ -539,6 +539,13 @@ export default [
     "Custom field (Resolution date)": ""
   },
   {
+    "Priority": "Major",
+    "Status": "New tasks",
+    "Created": "11/Oct/24 16:20",
+    "Resolved": "",
+    "Custom field (Resolution date)": ""
+  },
+  {
     "Priority": "Medium",
     "Status": "In Progress",
     "Created": "16/Sep/24 16:12",
@@ -548,7 +555,7 @@ export default [
   {
     "Priority": "Medium",
     "Status": "In Progress",
-    "Created": "30/Sep/24 19:10",
+    "Created": "26/Sep/24 12:26",
     "Resolved": "",
     "Custom field (Resolution date)": ""
   },
@@ -1045,6 +1052,13 @@ export default [
   {
     "Priority": "Medium",
     "Status": "Closed",
+    "Created": "30/Sep/24 19:10",
+    "Resolved": "11/Oct/24 18:54",
+    "Custom field (Resolution date)": ""
+  },
+  {
+    "Priority": "Medium",
+    "Status": "Closed",
     "Created": "01/Oct/24 12:09",
     "Resolved": "07/Oct/24 16:42",
     "Custom field (Resolution date)": ""
@@ -1096,6 +1110,13 @@ export default [
     "Status": "Closed",
     "Created": "03/Oct/24 12:42",
     "Resolved": "10/Oct/24 20:32",
+    "Custom field (Resolution date)": ""
+  },
+  {
+    "Priority": "Medium",
+    "Status": "Closed",
+    "Created": "04/Oct/24 16:51",
+    "Resolved": "11/Oct/24 17:01",
     "Custom field (Resolution date)": ""
   },
   {
@@ -1164,29 +1185,8 @@ export default [
   {
     "Priority": "Medium",
     "Status": "Resolved",
-    "Created": "01/Oct/24 15:37",
-    "Resolved": "11/Oct/24 16:02",
-    "Custom field (Resolution date)": ""
-  },
-  {
-    "Priority": "Medium",
-    "Status": "Resolved",
-    "Created": "04/Oct/24 16:51",
-    "Resolved": "10/Oct/24 10:29",
-    "Custom field (Resolution date)": ""
-  },
-  {
-    "Priority": "Medium",
-    "Status": "Resolved",
     "Created": "10/Oct/24 12:44",
     "Resolved": "10/Oct/24 12:59",
-    "Custom field (Resolution date)": ""
-  },
-  {
-    "Priority": "Medium",
-    "Status": "Resolved",
-    "Created": "10/Oct/24 22:44",
-    "Resolved": "11/Oct/24 16:02",
     "Custom field (Resolution date)": ""
   },
   {
@@ -1199,7 +1199,7 @@ export default [
   {
     "Priority": "Medium",
     "Status": "Reopened",
-    "Created": "26/Sep/24 12:26",
+    "Created": "01/Oct/24 15:37",
     "Resolved": "",
     "Custom field (Resolution date)": ""
   },
@@ -1219,6 +1219,13 @@ export default [
   },
   {
     "Priority": "Medium",
+    "Status": "Reopened",
+    "Created": "10/Oct/24 22:44",
+    "Resolved": "",
+    "Custom field (Resolution date)": ""
+  },
+  {
+    "Priority": "Medium",
     "Status": "Preparation",
     "Created": "13/Jun/24 17:34",
     "Resolved": "",
@@ -1227,14 +1234,14 @@ export default [
   {
     "Priority": "Medium",
     "Status": "Preparation",
-    "Created": "27/Sep/24 17:11",
+    "Created": "23/Jul/24 14:22",
     "Resolved": "",
     "Custom field (Resolution date)": ""
   },
   {
     "Priority": "Medium",
-    "Status": "New tasks",
-    "Created": "23/Jul/24 14:22",
+    "Status": "Preparation",
+    "Created": "27/Sep/24 17:11",
     "Resolved": "",
     "Custom field (Resolution date)": ""
   },
@@ -1291,6 +1298,20 @@ export default [
     "Priority": "Medium",
     "Status": "New tasks",
     "Created": "10/Oct/24 18:37",
+    "Resolved": "",
+    "Custom field (Resolution date)": ""
+  },
+  {
+    "Priority": "Medium",
+    "Status": "New tasks",
+    "Created": "11/Oct/24 18:16",
+    "Resolved": "",
+    "Custom field (Resolution date)": ""
+  },
+  {
+    "Priority": "Medium",
+    "Status": "New tasks",
+    "Created": "11/Oct/24 18:40",
     "Resolved": "",
     "Custom field (Resolution date)": ""
   },

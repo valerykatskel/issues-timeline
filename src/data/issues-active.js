@@ -15,7 +15,7 @@ export default [
   },
   {
     "Priority": "Critical",
-    "Status": "New tasks",
+    "Status": "In Progress",
     "Created": "11/Oct/24 15:27",
     "Resolved": "",
     "Custom field (Resolution date)": ""
@@ -70,6 +70,13 @@ export default [
     "Custom field (Resolution date)": ""
   },
   {
+    "Priority": "Major",
+    "Status": "New tasks",
+    "Created": "11/Oct/24 16:20",
+    "Resolved": "",
+    "Custom field (Resolution date)": ""
+  },
+  {
     "Priority": "Medium",
     "Status": "In Progress",
     "Created": "16/Sep/24 16:12",
@@ -79,14 +86,14 @@ export default [
   {
     "Priority": "Medium",
     "Status": "In Progress",
-    "Created": "30/Sep/24 19:10",
+    "Created": "26/Sep/24 12:26",
     "Resolved": "",
     "Custom field (Resolution date)": ""
   },
   {
     "Priority": "Medium",
     "Status": "Reopened",
-    "Created": "26/Sep/24 12:26",
+    "Created": "01/Oct/24 15:37",
     "Resolved": "",
     "Custom field (Resolution date)": ""
   },
@@ -101,6 +108,13 @@ export default [
     "Priority": "Medium",
     "Status": "Reopened",
     "Created": "02/Oct/24 13:31",
+    "Resolved": "",
+    "Custom field (Resolution date)": ""
+  },
+  {
+    "Priority": "Medium",
+    "Status": "Reopened",
+    "Created": "10/Oct/24 22:44",
     "Resolved": "",
     "Custom field (Resolution date)": ""
   },
@@ -178,6 +192,20 @@ export default [
     "Priority": "Medium",
     "Status": "New tasks",
     "Created": "10/Oct/24 18:37",
+    "Resolved": "",
+    "Custom field (Resolution date)": ""
+  },
+  {
+    "Priority": "Medium",
+    "Status": "New tasks",
+    "Created": "11/Oct/24 18:16",
+    "Resolved": "",
+    "Custom field (Resolution date)": ""
+  },
+  {
+    "Priority": "Medium",
+    "Status": "New tasks",
+    "Created": "11/Oct/24 18:40",
     "Resolved": "",
     "Custom field (Resolution date)": ""
   },
