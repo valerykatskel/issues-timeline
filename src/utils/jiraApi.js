@@ -11,18 +11,25 @@ export const fetchActiveIssues = async (jqlFilter) => {
           fields: "priority,status",
         },
         auth: {
-          username: process.env.JIRA_USERNAME,
-          password: process.env.JIRA_PASSWORD,
+          username: process.env.JIRA_EMAIL,
+          password: process.env.JIRA_API_TOKEN,
         },
       }
     );
 
+    if (response.status !== 200) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+
     return response.data.issues.map((issue) => ({
       Priority: issue.fields.priority.name,
-      Status: issue.fields.Status,
+      Status: issue.fields.status.name,
     }));
   } catch (error) {
-    console.error("Ошибка при получении данных из Jira:", error);
-    return [];
+    console.error(
+      "Ошибка при получении данных из Jira:",
+      error.response ? error.response.data : error.message
+    );
+    throw error;
   }
 };

@@ -1,51 +1,38 @@
-const fs = require("fs");
-const path = require("path");
+const fs = require('fs');
+const path = require('path');
+const Papa = require('papaparse');
 
-function convertCsvToJson(csvFilePath) {
-  const csvData = fs.readFileSync(csvFilePath, "utf8");
-  const lines = csvData.split("\n");
-  const headers = lines[0].split(",");
+const convertToJson = (data, outputPath) => {
+  const jsonData = JSON.stringify(data, null, 2);
+  fs.writeFileSync(outputPath, jsonData);
+  console.log(`Данные успешно сохранены в ${outputPath}`);
+};
 
-  const jsonData = lines
-    .slice(1)
-    .map((line) => {
-      if (line.trim() === "") return null;
-      const values = line.split(",");
-      const entry = {};
-      headers.forEach((header, index) => {
-        entry[header.trim()] = values[index] ? values[index].trim() : "";
-      });
-      return entry;
-    })
-    .filter((entry) => entry !== null);
+const processData = (inputPath, outputPath) => {
+  const fileContent = fs.readFileSync(inputPath, 'utf8');
+  
+  if (path.extname(inputPath) === '.csv') {
+    Papa.parse(fileContent, {
+      header: true,
+      complete: (results) => {
+        convertToJson(results.data, outputPath);
+      },
+    });
+  } else if (path.extname(inputPath) === '.json') {
+    const jsonData = JSON.parse(fileContent);
+    convertToJson(jsonData, outputPath);
+  } else {
+    console.error('Неподдерживаемый формат файла');
+  }
+};
 
-  return jsonData;
-}
+const convertData = () => {
+  const sourceDir = path.join(__dirname, '..', 'source');
+  const dataDir = path.join(__dirname, '..', 'data');
 
-const sourceDir = path.join(__dirname, "../source");
-const outputDir = path.join(__dirname, "../data");
+  if (!fs.existsSync(dataDir)) {
+    fs.mkdirSync(dataDir);
+  }
 
-if (!fs.existsSync(outputDir)) {
-  fs.mkdirSync(outputDir);
-}
-
-const csvFiles = fs
-  .readdirSync(sourceDir)
-  .filter((file) => file.endsWith(".csv"));
-
-csvFiles.forEach((csvFile) => {
-  const csvFilePath = path.join(sourceDir, csvFile);
-  const jsonData = convertCsvToJson(csvFilePath);
-
-  const outputFileName = path.basename(csvFile, ".csv") + ".js";
-  const outputFilePath = path.join(outputDir, outputFileName);
-
-  fs.writeFileSync(
-    outputFilePath,
-    `export default ${JSON.stringify(jsonData, null, 2)};`
-  );
-
-  console.log(`Конвертация завершена. Данные сохранены в ${outputFilePath}`);
-});
-
-console.log("Все CSV-файлы успешно конвертированы.");
+  const files = [
+    { input: 'issues.csv',
