@@ -1,4 +1,5 @@
 Priority,Status,Created,Resolved
+Blocker,In Progress,14/Oct/24 16:15,
 Blocker,Closed,09/Sep/24 14:53,19/Sep/24 17:17
 Blocker,Closed,10/Sep/24 12:28,12/Sep/24 14:26
 Blocker,Closed,10/Sep/24 14:47,26/Sep/24 18:38
@@ -15,6 +16,8 @@ Blocker,Closed,09/Oct/24 12:42,10/Oct/24 16:45
 Blocker,Closed,11/Oct/24 11:16,15/Oct/24 11:53
 Blocker,Closed,14/Oct/24 13:15,15/Oct/24 11:42
 Blocker,Closed,14/Oct/24 15:28,14/Oct/24 16:02
+Blocker,Reopened,15/Oct/24 18:49,
+Blocker,New tasks,16/Oct/24 16:45,
 Critical,Closed,30/Aug/24 12:18,04/Oct/24 13:07
 Critical,Closed,30/Aug/24 17:59,30/Aug/24 18:36
 Critical,Closed,09/Sep/24 17:53,12/Sep/24 14:26
@@ -44,13 +47,12 @@ Critical,Closed,02/Oct/24 13:17,08/Oct/24 15:34
 Critical,Closed,02/Oct/24 13:18,02/Oct/24 13:22
 Critical,Closed,08/Oct/24 11:17,10/Oct/24 17:32
 Critical,Closed,08/Oct/24 18:49,11/Oct/24 15:53
-Critical,Resolved,11/Oct/24 15:27,14/Oct/24 17:34
+Critical,Closed,16/Oct/24 14:19,16/Oct/24 15:07
+Critical,Resolved,11/Oct/24 15:27,16/Oct/24 16:42
 Critical,New tasks,11/Oct/24 18:16,
-Critical,New tasks,14/Oct/24 16:15,
 Critical,New tasks,15/Oct/24 13:32,
-Major,In Progress,04/Oct/24 19:26,
-Major,In Progress,09/Oct/24 16:50,
 Major,In Progress,15/Oct/24 13:51,
+Major,In Progress,16/Oct/24 15:07,
 Major,Closed,23/Aug/24 16:03,11/Sep/24 12:29
 Major,Closed,30/Aug/24 13:53,18/Sep/24 13:59
 Major,Closed,11/Sep/24 15:52,12/Sep/24 15:41
@@ -75,17 +77,18 @@ Major,Closed,03/Oct/24 16:14,07/Oct/24 16:28
 Major,Closed,07/Oct/24 13:14,10/Oct/24 11:03
 Major,Closed,10/Oct/24 15:49,10/Oct/24 16:38
 Major,Closed,11/Oct/24 16:20,15/Oct/24 16:14
+Major,Closed,15/Oct/24 12:06,16/Oct/24 16:06
+Major,Resolved,26/Sep/24 18:54,16/Oct/24 13:29
 Major,Resolved,27/Sep/24 17:06,30/Sep/24 17:19
 Major,Resolved,27/Sep/24 17:07,27/Sep/24 17:50
 Major,Resolved,27/Sep/24 17:10,01/Oct/24 11:39
+Major,Resolved,04/Oct/24 19:26,16/Oct/24 13:30
+Major,Resolved,09/Oct/24 16:50,16/Oct/24 13:30
+Major,Resolved,14/Oct/24 15:44,16/Oct/24 13:31
 Major,Reopened,26/Sep/24 13:14,
-Major,Reopened,26/Sep/24 18:54,
 Major,Preparation,20/May/24 15:10,
 Major,New tasks,09/Oct/24 11:26,
 Major,New tasks,09/Oct/24 12:59,
-Major,New tasks,14/Oct/24 15:44,
-Major,New tasks,15/Oct/24 12:06,
-Medium,In Progress,16/Sep/24 16:12,
 Medium,In Progress,10/Oct/24 18:37,
 Medium,In Progress,11/Oct/24 18:40,
 Medium,Closed,23/Aug/24 16:28,11/Sep/24 12:30
@@ -169,7 +172,6 @@ Medium,Closed,02/Oct/24 13:41,04/Oct/24 13:16
 Medium,Closed,02/Oct/24 16:35,04/Oct/24 13:20
 Medium,Closed,03/Oct/24 12:42,10/Oct/24 20:32
 Medium,Closed,04/Oct/24 16:51,11/Oct/24 17:01
-Medium,Closed,04/Oct/24 18:32,07/Oct/24 18:03
 Medium,Closed,07/Oct/24 16:38,08/Oct/24 16:45
 Medium,Closed,08/Oct/24 13:31,08/Oct/24 17:29
 Medium,Closed,08/Oct/24 13:34,08/Oct/24 17:28
@@ -177,13 +179,16 @@ Medium,Closed,08/Oct/24 15:26,10/Oct/24 15:39
 Medium,Closed,08/Oct/24 16:19,09/Oct/24 16:32
 Medium,Closed,08/Oct/24 16:23,10/Oct/24 13:56
 Medium,Closed,09/Oct/24 18:35,10/Oct/24 15:38
+Medium,Resolved,16/Sep/24 16:12,16/Oct/24 13:29
 Medium,Resolved,27/Sep/24 17:09,27/Sep/24 17:49
+Medium,Resolved,09/Oct/24 17:53,16/Oct/24 16:43
 Medium,Resolved,10/Oct/24 12:44,10/Oct/24 12:59
 Medium,Resolved,10/Oct/24 22:44,15/Oct/24 13:54
 Medium,Resolved,11/Oct/24 13:25,11/Oct/24 15:17
 Medium,Reopened,01/Oct/24 15:37,
 Medium,Reopened,01/Oct/24 17:00,
 Medium,Reopened,02/Oct/24 13:31,
+Medium,Reopened,04/Oct/24 18:32,
 Medium,Preparation,13/Jun/24 17:34,
 Medium,Preparation,23/Jul/24 14:22,
 Medium,Preparation,27/Sep/24 17:11,
@@ -193,9 +198,9 @@ Medium,New tasks,26/Sep/24 16:16,
 Medium,New tasks,04/Oct/24 18:43,
 Medium,New tasks,09/Oct/24 13:10,
 Medium,New tasks,09/Oct/24 13:54,
-Medium,New tasks,09/Oct/24 17:53,
 Medium,New tasks,15/Oct/24 11:40,
 Medium,New tasks,15/Oct/24 16:18,
+Medium,New tasks,16/Oct/24 11:04,
 Minor,Closed,20/Aug/24 18:24,11/Oct/24 13:27
 Minor,Closed,27/Sep/24 17:45,30/Sep/24 16:41
 Minor,Closed,30/Sep/24 18:05,01/Oct/24 13:50
