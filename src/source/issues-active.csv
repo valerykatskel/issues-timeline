@@ -1,31 +1,25 @@
-Priority,Status,Created,Resolved
-Blocker,In Progress,14/Oct/24 16:15,
-Blocker,Reopened,15/Oct/24 18:49,
-Blocker,New tasks,16/Oct/24 16:45,
-Critical,New tasks,11/Oct/24 18:16,
-Critical,New tasks,15/Oct/24 13:32,
-Major,In Progress,15/Oct/24 13:51,
-Major,In Progress,16/Oct/24 15:07,
-Major,Reopened,26/Sep/24 13:14,
-Major,Preparation,20/May/24 15:10,
-Major,New tasks,09/Oct/24 11:26,
-Major,New tasks,09/Oct/24 12:59,
-Medium,In Progress,10/Oct/24 18:37,
-Medium,In Progress,11/Oct/24 18:40,
-Medium,Reopened,01/Oct/24 15:37,
-Medium,Reopened,01/Oct/24 17:00,
-Medium,Reopened,02/Oct/24 13:31,
-Medium,Reopened,04/Oct/24 18:32,
-Medium,Preparation,13/Jun/24 17:34,
-Medium,Preparation,23/Jul/24 14:22,
-Medium,Preparation,27/Sep/24 17:11,
-Medium,New tasks,16/Aug/24 11:45,
-Medium,New tasks,26/Sep/24 15:59,
-Medium,New tasks,26/Sep/24 16:16,
-Medium,New tasks,04/Oct/24 18:43,
-Medium,New tasks,09/Oct/24 13:10,
-Medium,New tasks,09/Oct/24 13:54,
-Medium,New tasks,15/Oct/24 11:40,
-Medium,New tasks,15/Oct/24 16:18,
-Medium,New tasks,16/Oct/24 11:04,
-Low,New tasks,11/Oct/24 12:53,
+Priority,Status,Created,Resolved,Issue key,Issue id,Parent id
+Blocker,In Progress,25/Oct/24 11:38,,ADAF-9692,1374164,1351024
+Critical,In Progress,11/Oct/24 18:16,,ADAF-9613,1369269,1351024
+Critical,New tasks,17/Oct/24 12:32,,ADAF-9647,1371231,1351024
+Critical,New tasks,22/Oct/24 12:28,,ADAF-9665,1373090,1351024
+Major,In Progress,15/Oct/24 13:51,,ADAF-9622,1370284,1351024
+Major,In Progress,18/Oct/24 17:35,,ADAF-9653,1371840,1351024
+Major,Reopened,26/Sep/24 18:54,,ADAF-9510,1363825,1351024
+Major,Reopened,18/Oct/24 19:21,,ADAF-9654,1371878,1351024
+Major,New tasks,09/Oct/24 11:26,,ADAF-9579,1368260,1351024
+Major,New tasks,21/Oct/24 16:26,,ADAF-9658,1372771,1351024
+Major,New tasks,21/Oct/24 18:31,,ADAF-9659,1372838,1351024
+Major,New tasks,23/Oct/24 16:41,,ADAF-9680,1373604,1351024
+Medium,In Progress,01/Oct/24 15:37,,ADAF-9543,1365334,1351024
+Medium,In Progress,01/Oct/24 17:00,,ADAF-9545,1365424,1351024
+Medium,In Progress,24/Oct/24 14:04,,ADAF-9688,1373882,1351024
+Medium,Reopened,24/Oct/24 16:11,,ADAF-9690,1373925,1351024
+Medium,Preparation,23/Jul/24 14:22,,ADAF-9058,1339013,1351024
+Medium,Preparation,27/Sep/24 17:11,,ADAF-9523,1364209,1351024
+Medium,Preparation,17/Oct/24 11:28,,ADAF-9646,1371181,1351024
+Medium,New tasks,16/Aug/24 11:45,,ADAF-9185,1348434,1351024
+Medium,New tasks,04/Oct/24 18:43,,ADAF-9565,1366800,1351024
+Medium,New tasks,09/Oct/24 13:54,,ADAF-9583,1368314,1351024
+Medium,New tasks,16/Oct/24 11:04,,ADAF-9631,1370677,1351024
+Medium,New tasks,23/Oct/24 16:47,,ADAF-9681,1373612,1351024

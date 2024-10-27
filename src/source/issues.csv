@@ -1,5 +1,5 @@
 Priority,Status,Created,Resolved
-Blocker,In Progress,14/Oct/24 16:15,
+Blocker,In Progress,25/Oct/24 11:38,
 Blocker,Closed,09/Sep/24 14:53,19/Sep/24 17:17
 Blocker,Closed,10/Sep/24 12:28,12/Sep/24 14:26
 Blocker,Closed,10/Sep/24 14:47,26/Sep/24 18:38
@@ -16,8 +16,11 @@ Blocker,Closed,09/Oct/24 12:42,10/Oct/24 16:45
 Blocker,Closed,11/Oct/24 11:16,15/Oct/24 11:53
 Blocker,Closed,14/Oct/24 13:15,15/Oct/24 11:42
 Blocker,Closed,14/Oct/24 15:28,14/Oct/24 16:02
-Blocker,Reopened,15/Oct/24 18:49,
-Blocker,New tasks,16/Oct/24 16:45,
+Blocker,Closed,14/Oct/24 16:15,17/Oct/24 16:56
+Blocker,Closed,16/Oct/24 16:45,16/Oct/24 18:53
+Blocker,Closed,23/Oct/24 19:54,24/Oct/24 13:03
+Blocker,Closed,25/Oct/24 13:05,25/Oct/24 15:58
+Critical,In Progress,11/Oct/24 18:16,
 Critical,Closed,30/Aug/24 12:18,04/Oct/24 13:07
 Critical,Closed,30/Aug/24 17:59,30/Aug/24 18:36
 Critical,Closed,09/Sep/24 17:53,12/Sep/24 14:26
@@ -47,12 +50,19 @@ Critical,Closed,02/Oct/24 13:17,08/Oct/24 15:34
 Critical,Closed,02/Oct/24 13:18,02/Oct/24 13:22
 Critical,Closed,08/Oct/24 11:17,10/Oct/24 17:32
 Critical,Closed,08/Oct/24 18:49,11/Oct/24 15:53
+Critical,Closed,11/Oct/24 15:27,21/Oct/24 16:51
+Critical,Closed,15/Oct/24 13:32,23/Oct/24 16:58
+Critical,Closed,15/Oct/24 18:49,21/Oct/24 15:14
 Critical,Closed,16/Oct/24 14:19,16/Oct/24 15:07
-Critical,Resolved,11/Oct/24 15:27,16/Oct/24 16:42
-Critical,New tasks,11/Oct/24 18:16,
-Critical,New tasks,15/Oct/24 13:32,
+Critical,Closed,18/Oct/24 10:58,18/Oct/24 18:30
+Critical,Closed,21/Oct/24 13:30,21/Oct/24 23:15
+Critical,Closed,24/Oct/24 17:48,25/Oct/24 17:11
+Critical,Resolved,24/Oct/24 14:03,24/Oct/24 17:43
+Critical,Resolved,25/Oct/24 18:02,27/Oct/24 23:24
+Critical,New tasks,17/Oct/24 12:32,
+Critical,New tasks,22/Oct/24 12:28,
 Major,In Progress,15/Oct/24 13:51,
-Major,In Progress,16/Oct/24 15:07,
+Major,In Progress,18/Oct/24 17:35,
 Major,Closed,23/Aug/24 16:03,11/Sep/24 12:29
 Major,Closed,30/Aug/24 13:53,18/Sep/24 13:59
 Major,Closed,11/Sep/24 15:52,12/Sep/24 15:41
@@ -63,34 +73,49 @@ Major,Closed,18/Sep/24 15:47,18/Sep/24 17:13
 Major,Closed,18/Sep/24 16:30,23/Sep/24 16:53
 Major,Closed,18/Sep/24 18:39,03/Oct/24 18:32
 Major,Closed,23/Sep/24 13:08,24/Sep/24 16:43
-Major,Closed,24/Sep/24 15:38,04/Oct/24 19:27
+Major,Closed,24/Sep/24 15:38,24/Oct/24 16:40
 Major,Closed,25/Sep/24 11:16,03/Oct/24 18:35
 Major,Closed,25/Sep/24 18:52,10/Oct/24 21:11
 Major,Closed,26/Sep/24 12:01,10/Oct/24 21:13
 Major,Closed,26/Sep/24 12:46,10/Oct/24 20:26
+Major,Closed,26/Sep/24 13:14,17/Oct/24 17:56
 Major,Closed,26/Sep/24 18:00,10/Oct/24 21:19
+Major,Closed,27/Sep/24 17:06,17/Oct/24 13:19
+Major,Closed,27/Sep/24 17:07,17/Oct/24 13:19
+Major,Closed,27/Sep/24 17:10,17/Oct/24 13:47
 Major,Closed,30/Sep/24 12:08,07/Oct/24 18:22
 Major,Closed,01/Oct/24 17:54,01/Oct/24 19:07
 Major,Closed,02/Oct/24 13:17,02/Oct/24 13:18
 Major,Closed,02/Oct/24 16:47,11/Oct/24 13:17
 Major,Closed,03/Oct/24 16:14,07/Oct/24 16:28
+Major,Closed,04/Oct/24 19:26,22/Oct/24 16:48
 Major,Closed,07/Oct/24 13:14,10/Oct/24 11:03
+Major,Closed,09/Oct/24 12:59,17/Oct/24 17:16
+Major,Closed,09/Oct/24 16:50,17/Oct/24 14:06
 Major,Closed,10/Oct/24 15:49,10/Oct/24 16:38
 Major,Closed,11/Oct/24 16:20,15/Oct/24 16:14
+Major,Closed,14/Oct/24 15:44,16/Oct/24 18:02
 Major,Closed,15/Oct/24 12:06,16/Oct/24 16:06
-Major,Resolved,26/Sep/24 18:54,16/Oct/24 13:29
-Major,Resolved,27/Sep/24 17:06,30/Sep/24 17:19
-Major,Resolved,27/Sep/24 17:07,27/Sep/24 17:50
-Major,Resolved,27/Sep/24 17:10,01/Oct/24 11:39
-Major,Resolved,04/Oct/24 19:26,16/Oct/24 13:30
-Major,Resolved,09/Oct/24 16:50,16/Oct/24 13:30
-Major,Resolved,14/Oct/24 15:44,16/Oct/24 13:31
-Major,Reopened,26/Sep/24 13:14,
-Major,Preparation,20/May/24 15:10,
+Major,Closed,16/Oct/24 15:07,21/Oct/24 13:03
+Major,Closed,17/Oct/24 14:17,21/Oct/24 13:05
+Major,Closed,17/Oct/24 17:00,22/Oct/24 12:29
+Major,Closed,21/Oct/24 19:11,24/Oct/24 13:17
+Major,Closed,22/Oct/24 11:27,25/Oct/24 18:11
+Major,Closed,23/Oct/24 17:03,25/Oct/24 12:46
+Major,Closed,23/Oct/24 17:41,24/Oct/24 14:04
+Major,Closed,24/Oct/24 13:28,24/Oct/24 17:36
+Major,Resolved,20/May/24 15:10,24/Oct/24 17:15
+Major,Resolved,18/Oct/24 17:22,25/Oct/24 09:52
+Major,Reopened,26/Sep/24 18:54,
+Major,Reopened,18/Oct/24 19:21,
 Major,New tasks,09/Oct/24 11:26,
-Major,New tasks,09/Oct/24 12:59,
-Medium,In Progress,10/Oct/24 18:37,
-Medium,In Progress,11/Oct/24 18:40,
+Major,New tasks,21/Oct/24 16:26,
+Major,New tasks,21/Oct/24 18:31,
+Major,New tasks,23/Oct/24 16:41,
+Medium,In Progress,01/Oct/24 15:37,
+Medium,In Progress,01/Oct/24 17:00,
+Medium,In Progress,24/Oct/24 14:04,
+Medium,Done,23/Oct/24 13:25,24/Oct/24 00:43
 Medium,Closed,23/Aug/24 16:28,11/Sep/24 12:30
 Medium,Closed,23/Aug/24 17:01,27/Aug/24 11:31
 Medium,Closed,26/Aug/24 15:00,12/Sep/24 14:27
@@ -133,6 +158,7 @@ Medium,Closed,16/Sep/24 14:04,25/Sep/24 15:06
 Medium,Closed,16/Sep/24 15:01,30/Sep/24 14:04
 Medium,Closed,16/Sep/24 15:52,26/Sep/24 15:50
 Medium,Closed,16/Sep/24 16:07,27/Sep/24 11:01
+Medium,Closed,16/Sep/24 16:12,21/Oct/24 17:17
 Medium,Closed,16/Sep/24 17:11,01/Oct/24 11:35
 Medium,Closed,16/Sep/24 17:56,23/Sep/24 12:04
 Medium,Closed,17/Sep/24 12:01,23/Sep/24 15:57
@@ -162,45 +188,58 @@ Medium,Closed,26/Sep/24 16:11,27/Sep/24 16:28
 Medium,Closed,26/Sep/24 16:49,07/Oct/24 16:39
 Medium,Closed,27/Sep/24 13:46,01/Oct/24 13:02
 Medium,Closed,27/Sep/24 15:23,07/Oct/24 17:43
+Medium,Closed,27/Sep/24 17:09,17/Oct/24 13:19
 Medium,Closed,30/Sep/24 19:10,11/Oct/24 18:54
 Medium,Closed,01/Oct/24 12:09,07/Oct/24 16:42
 Medium,Closed,01/Oct/24 13:08,11/Oct/24 14:04
 Medium,Closed,01/Oct/24 15:59,04/Oct/24 19:34
 Medium,Closed,02/Oct/24 12:34,10/Oct/24 21:15
 Medium,Closed,02/Oct/24 13:00,07/Oct/24 17:45
+Medium,Closed,02/Oct/24 13:31,21/Oct/24 11:06
 Medium,Closed,02/Oct/24 13:41,04/Oct/24 13:16
 Medium,Closed,02/Oct/24 16:35,04/Oct/24 13:20
 Medium,Closed,03/Oct/24 12:42,10/Oct/24 20:32
 Medium,Closed,04/Oct/24 16:51,11/Oct/24 17:01
+Medium,Closed,04/Oct/24 18:32,21/Oct/24 11:39
 Medium,Closed,07/Oct/24 16:38,08/Oct/24 16:45
 Medium,Closed,08/Oct/24 13:31,08/Oct/24 17:29
 Medium,Closed,08/Oct/24 13:34,08/Oct/24 17:28
 Medium,Closed,08/Oct/24 15:26,10/Oct/24 15:39
 Medium,Closed,08/Oct/24 16:19,09/Oct/24 16:32
 Medium,Closed,08/Oct/24 16:23,10/Oct/24 13:56
+Medium,Closed,09/Oct/24 13:10,22/Oct/24 16:38
+Medium,Closed,09/Oct/24 17:53,17/Oct/24 14:08
 Medium,Closed,09/Oct/24 18:35,10/Oct/24 15:38
-Medium,Resolved,16/Sep/24 16:12,16/Oct/24 13:29
-Medium,Resolved,27/Sep/24 17:09,27/Sep/24 17:49
-Medium,Resolved,09/Oct/24 17:53,16/Oct/24 16:43
-Medium,Resolved,10/Oct/24 12:44,10/Oct/24 12:59
-Medium,Resolved,10/Oct/24 22:44,15/Oct/24 13:54
-Medium,Resolved,11/Oct/24 13:25,11/Oct/24 15:17
-Medium,Reopened,01/Oct/24 15:37,
-Medium,Reopened,01/Oct/24 17:00,
-Medium,Reopened,02/Oct/24 13:31,
-Medium,Reopened,04/Oct/24 18:32,
-Medium,Preparation,13/Jun/24 17:34,
+Medium,Closed,10/Oct/24 12:44,18/Oct/24 16:06
+Medium,Closed,10/Oct/24 18:37,17/Oct/24 15:24
+Medium,Closed,10/Oct/24 22:44,16/Oct/24 19:09
+Medium,Closed,11/Oct/24 13:25,17/Oct/24 12:51
+Medium,Closed,15/Oct/24 11:40,18/Oct/24 16:38
+Medium,Closed,17/Oct/24 11:08,18/Oct/24 17:02
+Medium,Closed,18/Oct/24 13:27,18/Oct/24 14:52
+Medium,Closed,18/Oct/24 20:38,21/Oct/24 16:53
+Medium,Closed,23/Oct/24 13:50,24/Oct/24 14:42
+Medium,Closed,23/Oct/24 14:13,25/Oct/24 16:58
+Medium,Closed,24/Oct/24 14:48,24/Oct/24 17:23
+Medium,Resolved,13/Jun/24 17:34,24/Oct/24 15:59
+Medium,Resolved,26/Sep/24 15:59,25/Oct/24 09:51
+Medium,Resolved,26/Sep/24 16:16,22/Oct/24 01:15
+Medium,Resolved,11/Oct/24 18:40,23/Oct/24 16:57
+Medium,Resolved,15/Oct/24 16:18,27/Oct/24 23:26
+Medium,Resolved,21/Oct/24 11:09,25/Oct/24 20:34
+Medium,Resolved,22/Oct/24 16:28,27/Oct/24 23:24
+Medium,Resolved,22/Oct/24 16:37,27/Oct/24 23:24
+Medium,Resolved,23/Oct/24 13:22,24/Oct/24 17:13
+Medium,Resolved,25/Oct/24 17:15,27/Oct/24 22:12
+Medium,Reopened,24/Oct/24 16:11,
 Medium,Preparation,23/Jul/24 14:22,
 Medium,Preparation,27/Sep/24 17:11,
+Medium,Preparation,17/Oct/24 11:28,
 Medium,New tasks,16/Aug/24 11:45,
-Medium,New tasks,26/Sep/24 15:59,
-Medium,New tasks,26/Sep/24 16:16,
 Medium,New tasks,04/Oct/24 18:43,
-Medium,New tasks,09/Oct/24 13:10,
 Medium,New tasks,09/Oct/24 13:54,
-Medium,New tasks,15/Oct/24 11:40,
-Medium,New tasks,15/Oct/24 16:18,
 Medium,New tasks,16/Oct/24 11:04,
+Medium,New tasks,23/Oct/24 16:47,
 Minor,Closed,20/Aug/24 18:24,11/Oct/24 13:27
 Minor,Closed,27/Sep/24 17:45,30/Sep/24 16:41
 Minor,Closed,30/Sep/24 18:05,01/Oct/24 13:50
@@ -213,9 +252,11 @@ Low,Closed,23/Sep/24 18:29,04/Oct/24 19:35
 Low,Closed,24/Sep/24 15:50,01/Oct/24 13:28
 Low,Closed,24/Sep/24 16:02,02/Oct/24 12:18
 Low,Closed,25/Sep/24 11:41,26/Sep/24 15:52
+Low,Closed,25/Sep/24 11:44,18/Oct/24 16:06
 Low,Closed,30/Sep/24 16:44,04/Oct/24 13:16
 Low,Closed,01/Oct/24 12:20,04/Oct/24 12:31
 Low,Closed,03/Oct/24 11:40,04/Oct/24 12:27
-Low,Resolved,25/Sep/24 11:44,10/Oct/24 10:30
-Low,Resolved,10/Oct/24 17:35,11/Oct/24 16:02
-Low,New tasks,11/Oct/24 12:53,
+Low,Closed,10/Oct/24 17:35,17/Oct/24 12:50
+Low,Closed,11/Oct/24 12:53,21/Oct/24 16:34
+Low,Closed,22/Oct/24 15:36,23/Oct/24 18:51
+Low,Resolved,24/Oct/24 13:30,25/Oct/24 14:01

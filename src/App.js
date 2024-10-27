@@ -8,15 +8,35 @@ import statusData from "./data/status.json";
 
 const processIssueData = (data) => {
   const dailyData = {};
-
+  const monthMap = {
+    Jan: 0,
+    Feb: 1,
+    Mar: 2,
+    Apr: 3,
+    May: 4,
+    Jun: 5,
+    Jul: 6,
+    Aug: 7,
+    Sep: 8,
+    Oct: 9,
+    Nov: 10,
+    Dec: 11,
+  };
   data.forEach((issue) => {
-    const [day, month, year] = issue.Created.split(" ")[0].split("/");
-    const createdDate = new Date(`20${year}-${month}-${day}`);
+    const [day, monthStr, year] = issue.Created.split(" ")[0].split("/");
+    const month = monthMap[monthStr];
+    const createdDate = new Date(
+      Date.UTC(2000 + parseInt(year), month, parseInt(day))
+    );
 
     const resolvedDate = issue.Resolved
       ? (() => {
-          const [rDay, rMonth, rYear] = issue.Resolved.split(" ")[0].split("/");
-          return new Date(`20${rYear}-${rMonth}-${rDay}`);
+          const [rDay, rMonthStr, rYear] =
+            issue.Resolved.split(" ")[0].split("/");
+          const rMonth = monthMap[rMonthStr];
+          return new Date(
+            Date.UTC(2000 + parseInt(rYear), rMonth, parseInt(rDay))
+          );
         })()
       : null;
 
@@ -28,7 +48,9 @@ const processIssueData = (data) => {
 
     if (
       resolvedDate &&
-      (issue.Status === "Closed" || issue.Status === "Resolved")
+      (issue.Status === "Closed" ||
+        issue.Status === "Resolved" ||
+        issue.Status === "Done")
     ) {
       const resolvedKey = resolvedDate.toISOString().split("T")[0];
       if (!dailyData[resolvedKey]) {

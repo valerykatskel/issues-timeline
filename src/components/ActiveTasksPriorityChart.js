@@ -7,7 +7,7 @@ import {
   ResponsiveContainer,
   Tooltip,
 } from "recharts";
-import issuesActiveData from "../data/issues-active";
+import issuesActiveData from "../data/issues-active.js";
 
 const processPriorityData = (data) => {
   const priorityCounts = data.reduce((acc, issue) => {

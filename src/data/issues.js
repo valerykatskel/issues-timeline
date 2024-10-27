@@ -2,7 +2,7 @@ export default [
   {
     "Priority": "Blocker",
     "Status": "In Progress",
-    "Created": "14/Oct/24 16:15",
+    "Created": "25/Oct/24 11:38",
     "Resolved": ""
   },
   {
@@ -103,14 +103,32 @@ export default [
   },
   {
     "Priority": "Blocker",
-    "Status": "Reopened",
-    "Created": "15/Oct/24 18:49",
-    "Resolved": ""
+    "Status": "Closed",
+    "Created": "14/Oct/24 16:15",
+    "Resolved": "17/Oct/24 16:56"
   },
   {
     "Priority": "Blocker",
-    "Status": "New tasks",
+    "Status": "Closed",
     "Created": "16/Oct/24 16:45",
+    "Resolved": "16/Oct/24 18:53"
+  },
+  {
+    "Priority": "Blocker",
+    "Status": "Closed",
+    "Created": "23/Oct/24 19:54",
+    "Resolved": "24/Oct/24 13:03"
+  },
+  {
+    "Priority": "Blocker",
+    "Status": "Closed",
+    "Created": "25/Oct/24 13:05",
+    "Resolved": "25/Oct/24 15:58"
+  },
+  {
+    "Priority": "Critical",
+    "Status": "In Progress",
+    "Created": "11/Oct/24 18:16",
     "Resolved": ""
   },
   {
@@ -290,25 +308,67 @@ export default [
   {
     "Priority": "Critical",
     "Status": "Closed",
+    "Created": "11/Oct/24 15:27",
+    "Resolved": "21/Oct/24 16:51"
+  },
+  {
+    "Priority": "Critical",
+    "Status": "Closed",
+    "Created": "15/Oct/24 13:32",
+    "Resolved": "23/Oct/24 16:58"
+  },
+  {
+    "Priority": "Critical",
+    "Status": "Closed",
+    "Created": "15/Oct/24 18:49",
+    "Resolved": "21/Oct/24 15:14"
+  },
+  {
+    "Priority": "Critical",
+    "Status": "Closed",
     "Created": "16/Oct/24 14:19",
     "Resolved": "16/Oct/24 15:07"
   },
   {
     "Priority": "Critical",
+    "Status": "Closed",
+    "Created": "18/Oct/24 10:58",
+    "Resolved": "18/Oct/24 18:30"
+  },
+  {
+    "Priority": "Critical",
+    "Status": "Closed",
+    "Created": "21/Oct/24 13:30",
+    "Resolved": "21/Oct/24 23:15"
+  },
+  {
+    "Priority": "Critical",
+    "Status": "Closed",
+    "Created": "24/Oct/24 17:48",
+    "Resolved": "25/Oct/24 17:11"
+  },
+  {
+    "Priority": "Critical",
     "Status": "Resolved",
-    "Created": "11/Oct/24 15:27",
-    "Resolved": "16/Oct/24 16:42"
+    "Created": "24/Oct/24 14:03",
+    "Resolved": "24/Oct/24 17:43"
+  },
+  {
+    "Priority": "Critical",
+    "Status": "Resolved",
+    "Created": "25/Oct/24 18:02",
+    "Resolved": "27/Oct/24 23:24"
   },
   {
     "Priority": "Critical",
     "Status": "New tasks",
-    "Created": "11/Oct/24 18:16",
+    "Created": "17/Oct/24 12:32",
     "Resolved": ""
   },
   {
     "Priority": "Critical",
     "Status": "New tasks",
-    "Created": "15/Oct/24 13:32",
+    "Created": "22/Oct/24 12:28",
     "Resolved": ""
   },
   {
@@ -320,7 +380,7 @@ export default [
   {
     "Priority": "Major",
     "Status": "In Progress",
-    "Created": "16/Oct/24 15:07",
+    "Created": "18/Oct/24 17:35",
     "Resolved": ""
   },
   {
@@ -387,7 +447,7 @@ export default [
     "Priority": "Major",
     "Status": "Closed",
     "Created": "24/Sep/24 15:38",
-    "Resolved": "04/Oct/24 19:27"
+    "Resolved": "24/Oct/24 16:40"
   },
   {
     "Priority": "Major",
@@ -416,8 +476,32 @@ export default [
   {
     "Priority": "Major",
     "Status": "Closed",
+    "Created": "26/Sep/24 13:14",
+    "Resolved": "17/Oct/24 17:56"
+  },
+  {
+    "Priority": "Major",
+    "Status": "Closed",
     "Created": "26/Sep/24 18:00",
     "Resolved": "10/Oct/24 21:19"
+  },
+  {
+    "Priority": "Major",
+    "Status": "Closed",
+    "Created": "27/Sep/24 17:06",
+    "Resolved": "17/Oct/24 13:19"
+  },
+  {
+    "Priority": "Major",
+    "Status": "Closed",
+    "Created": "27/Sep/24 17:07",
+    "Resolved": "17/Oct/24 13:19"
+  },
+  {
+    "Priority": "Major",
+    "Status": "Closed",
+    "Created": "27/Sep/24 17:10",
+    "Resolved": "17/Oct/24 13:47"
   },
   {
     "Priority": "Major",
@@ -452,8 +536,26 @@ export default [
   {
     "Priority": "Major",
     "Status": "Closed",
+    "Created": "04/Oct/24 19:26",
+    "Resolved": "22/Oct/24 16:48"
+  },
+  {
+    "Priority": "Major",
+    "Status": "Closed",
     "Created": "07/Oct/24 13:14",
     "Resolved": "10/Oct/24 11:03"
+  },
+  {
+    "Priority": "Major",
+    "Status": "Closed",
+    "Created": "09/Oct/24 12:59",
+    "Resolved": "17/Oct/24 17:16"
+  },
+  {
+    "Priority": "Major",
+    "Status": "Closed",
+    "Created": "09/Oct/24 16:50",
+    "Resolved": "17/Oct/24 14:06"
   },
   {
     "Priority": "Major",
@@ -470,61 +572,85 @@ export default [
   {
     "Priority": "Major",
     "Status": "Closed",
+    "Created": "14/Oct/24 15:44",
+    "Resolved": "16/Oct/24 18:02"
+  },
+  {
+    "Priority": "Major",
+    "Status": "Closed",
     "Created": "15/Oct/24 12:06",
     "Resolved": "16/Oct/24 16:06"
   },
   {
     "Priority": "Major",
-    "Status": "Resolved",
-    "Created": "26/Sep/24 18:54",
-    "Resolved": "16/Oct/24 13:29"
+    "Status": "Closed",
+    "Created": "16/Oct/24 15:07",
+    "Resolved": "21/Oct/24 13:03"
+  },
+  {
+    "Priority": "Major",
+    "Status": "Closed",
+    "Created": "17/Oct/24 14:17",
+    "Resolved": "21/Oct/24 13:05"
+  },
+  {
+    "Priority": "Major",
+    "Status": "Closed",
+    "Created": "17/Oct/24 17:00",
+    "Resolved": "22/Oct/24 12:29"
+  },
+  {
+    "Priority": "Major",
+    "Status": "Closed",
+    "Created": "21/Oct/24 19:11",
+    "Resolved": "24/Oct/24 13:17"
+  },
+  {
+    "Priority": "Major",
+    "Status": "Closed",
+    "Created": "22/Oct/24 11:27",
+    "Resolved": "25/Oct/24 18:11"
+  },
+  {
+    "Priority": "Major",
+    "Status": "Closed",
+    "Created": "23/Oct/24 17:03",
+    "Resolved": "25/Oct/24 12:46"
+  },
+  {
+    "Priority": "Major",
+    "Status": "Closed",
+    "Created": "23/Oct/24 17:41",
+    "Resolved": "24/Oct/24 14:04"
+  },
+  {
+    "Priority": "Major",
+    "Status": "Closed",
+    "Created": "24/Oct/24 13:28",
+    "Resolved": "24/Oct/24 17:36"
   },
   {
     "Priority": "Major",
     "Status": "Resolved",
-    "Created": "27/Sep/24 17:06",
-    "Resolved": "30/Sep/24 17:19"
+    "Created": "20/May/24 15:10",
+    "Resolved": "24/Oct/24 17:15"
   },
   {
     "Priority": "Major",
     "Status": "Resolved",
-    "Created": "27/Sep/24 17:07",
-    "Resolved": "27/Sep/24 17:50"
-  },
-  {
-    "Priority": "Major",
-    "Status": "Resolved",
-    "Created": "27/Sep/24 17:10",
-    "Resolved": "01/Oct/24 11:39"
-  },
-  {
-    "Priority": "Major",
-    "Status": "Resolved",
-    "Created": "04/Oct/24 19:26",
-    "Resolved": "16/Oct/24 13:30"
-  },
-  {
-    "Priority": "Major",
-    "Status": "Resolved",
-    "Created": "09/Oct/24 16:50",
-    "Resolved": "16/Oct/24 13:30"
-  },
-  {
-    "Priority": "Major",
-    "Status": "Resolved",
-    "Created": "14/Oct/24 15:44",
-    "Resolved": "16/Oct/24 13:31"
+    "Created": "18/Oct/24 17:22",
+    "Resolved": "25/Oct/24 09:52"
   },
   {
     "Priority": "Major",
     "Status": "Reopened",
-    "Created": "26/Sep/24 13:14",
+    "Created": "26/Sep/24 18:54",
     "Resolved": ""
   },
   {
     "Priority": "Major",
-    "Status": "Preparation",
-    "Created": "20/May/24 15:10",
+    "Status": "Reopened",
+    "Created": "18/Oct/24 19:21",
     "Resolved": ""
   },
   {
@@ -536,20 +662,44 @@ export default [
   {
     "Priority": "Major",
     "Status": "New tasks",
-    "Created": "09/Oct/24 12:59",
+    "Created": "21/Oct/24 16:26",
+    "Resolved": ""
+  },
+  {
+    "Priority": "Major",
+    "Status": "New tasks",
+    "Created": "21/Oct/24 18:31",
+    "Resolved": ""
+  },
+  {
+    "Priority": "Major",
+    "Status": "New tasks",
+    "Created": "23/Oct/24 16:41",
     "Resolved": ""
   },
   {
     "Priority": "Medium",
     "Status": "In Progress",
-    "Created": "10/Oct/24 18:37",
+    "Created": "01/Oct/24 15:37",
     "Resolved": ""
   },
   {
     "Priority": "Medium",
     "Status": "In Progress",
-    "Created": "11/Oct/24 18:40",
+    "Created": "01/Oct/24 17:00",
     "Resolved": ""
+  },
+  {
+    "Priority": "Medium",
+    "Status": "In Progress",
+    "Created": "24/Oct/24 14:04",
+    "Resolved": ""
+  },
+  {
+    "Priority": "Medium",
+    "Status": "Done",
+    "Created": "23/Oct/24 13:25",
+    "Resolved": "24/Oct/24 00:43"
   },
   {
     "Priority": "Medium",
@@ -806,6 +956,12 @@ export default [
   {
     "Priority": "Medium",
     "Status": "Closed",
+    "Created": "16/Sep/24 16:12",
+    "Resolved": "21/Oct/24 17:17"
+  },
+  {
+    "Priority": "Medium",
+    "Status": "Closed",
     "Created": "16/Sep/24 17:11",
     "Resolved": "01/Oct/24 11:35"
   },
@@ -980,6 +1136,12 @@ export default [
   {
     "Priority": "Medium",
     "Status": "Closed",
+    "Created": "27/Sep/24 17:09",
+    "Resolved": "17/Oct/24 13:19"
+  },
+  {
+    "Priority": "Medium",
+    "Status": "Closed",
     "Created": "30/Sep/24 19:10",
     "Resolved": "11/Oct/24 18:54"
   },
@@ -1016,6 +1178,12 @@ export default [
   {
     "Priority": "Medium",
     "Status": "Closed",
+    "Created": "02/Oct/24 13:31",
+    "Resolved": "21/Oct/24 11:06"
+  },
+  {
+    "Priority": "Medium",
+    "Status": "Closed",
     "Created": "02/Oct/24 13:41",
     "Resolved": "04/Oct/24 13:16"
   },
@@ -1036,6 +1204,12 @@ export default [
     "Status": "Closed",
     "Created": "04/Oct/24 16:51",
     "Resolved": "11/Oct/24 17:01"
+  },
+  {
+    "Priority": "Medium",
+    "Status": "Closed",
+    "Created": "04/Oct/24 18:32",
+    "Resolved": "21/Oct/24 11:39"
   },
   {
     "Priority": "Medium",
@@ -1076,73 +1250,151 @@ export default [
   {
     "Priority": "Medium",
     "Status": "Closed",
+    "Created": "09/Oct/24 13:10",
+    "Resolved": "22/Oct/24 16:38"
+  },
+  {
+    "Priority": "Medium",
+    "Status": "Closed",
+    "Created": "09/Oct/24 17:53",
+    "Resolved": "17/Oct/24 14:08"
+  },
+  {
+    "Priority": "Medium",
+    "Status": "Closed",
     "Created": "09/Oct/24 18:35",
     "Resolved": "10/Oct/24 15:38"
   },
   {
     "Priority": "Medium",
-    "Status": "Resolved",
-    "Created": "16/Sep/24 16:12",
-    "Resolved": "16/Oct/24 13:29"
-  },
-  {
-    "Priority": "Medium",
-    "Status": "Resolved",
-    "Created": "27/Sep/24 17:09",
-    "Resolved": "27/Sep/24 17:49"
-  },
-  {
-    "Priority": "Medium",
-    "Status": "Resolved",
-    "Created": "09/Oct/24 17:53",
-    "Resolved": "16/Oct/24 16:43"
-  },
-  {
-    "Priority": "Medium",
-    "Status": "Resolved",
+    "Status": "Closed",
     "Created": "10/Oct/24 12:44",
-    "Resolved": "10/Oct/24 12:59"
+    "Resolved": "18/Oct/24 16:06"
   },
   {
     "Priority": "Medium",
-    "Status": "Resolved",
+    "Status": "Closed",
+    "Created": "10/Oct/24 18:37",
+    "Resolved": "17/Oct/24 15:24"
+  },
+  {
+    "Priority": "Medium",
+    "Status": "Closed",
     "Created": "10/Oct/24 22:44",
-    "Resolved": "15/Oct/24 13:54"
+    "Resolved": "16/Oct/24 19:09"
+  },
+  {
+    "Priority": "Medium",
+    "Status": "Closed",
+    "Created": "11/Oct/24 13:25",
+    "Resolved": "17/Oct/24 12:51"
+  },
+  {
+    "Priority": "Medium",
+    "Status": "Closed",
+    "Created": "15/Oct/24 11:40",
+    "Resolved": "18/Oct/24 16:38"
+  },
+  {
+    "Priority": "Medium",
+    "Status": "Closed",
+    "Created": "17/Oct/24 11:08",
+    "Resolved": "18/Oct/24 17:02"
+  },
+  {
+    "Priority": "Medium",
+    "Status": "Closed",
+    "Created": "18/Oct/24 13:27",
+    "Resolved": "18/Oct/24 14:52"
+  },
+  {
+    "Priority": "Medium",
+    "Status": "Closed",
+    "Created": "18/Oct/24 20:38",
+    "Resolved": "21/Oct/24 16:53"
+  },
+  {
+    "Priority": "Medium",
+    "Status": "Closed",
+    "Created": "23/Oct/24 13:50",
+    "Resolved": "24/Oct/24 14:42"
+  },
+  {
+    "Priority": "Medium",
+    "Status": "Closed",
+    "Created": "23/Oct/24 14:13",
+    "Resolved": "25/Oct/24 16:58"
+  },
+  {
+    "Priority": "Medium",
+    "Status": "Closed",
+    "Created": "24/Oct/24 14:48",
+    "Resolved": "24/Oct/24 17:23"
   },
   {
     "Priority": "Medium",
     "Status": "Resolved",
-    "Created": "11/Oct/24 13:25",
-    "Resolved": "11/Oct/24 15:17"
-  },
-  {
-    "Priority": "Medium",
-    "Status": "Reopened",
-    "Created": "01/Oct/24 15:37",
-    "Resolved": ""
-  },
-  {
-    "Priority": "Medium",
-    "Status": "Reopened",
-    "Created": "01/Oct/24 17:00",
-    "Resolved": ""
-  },
-  {
-    "Priority": "Medium",
-    "Status": "Reopened",
-    "Created": "02/Oct/24 13:31",
-    "Resolved": ""
-  },
-  {
-    "Priority": "Medium",
-    "Status": "Reopened",
-    "Created": "04/Oct/24 18:32",
-    "Resolved": ""
-  },
-  {
-    "Priority": "Medium",
-    "Status": "Preparation",
     "Created": "13/Jun/24 17:34",
+    "Resolved": "24/Oct/24 15:59"
+  },
+  {
+    "Priority": "Medium",
+    "Status": "Resolved",
+    "Created": "26/Sep/24 15:59",
+    "Resolved": "25/Oct/24 09:51"
+  },
+  {
+    "Priority": "Medium",
+    "Status": "Resolved",
+    "Created": "26/Sep/24 16:16",
+    "Resolved": "22/Oct/24 01:15"
+  },
+  {
+    "Priority": "Medium",
+    "Status": "Resolved",
+    "Created": "11/Oct/24 18:40",
+    "Resolved": "23/Oct/24 16:57"
+  },
+  {
+    "Priority": "Medium",
+    "Status": "Resolved",
+    "Created": "15/Oct/24 16:18",
+    "Resolved": "27/Oct/24 23:26"
+  },
+  {
+    "Priority": "Medium",
+    "Status": "Resolved",
+    "Created": "21/Oct/24 11:09",
+    "Resolved": "25/Oct/24 20:34"
+  },
+  {
+    "Priority": "Medium",
+    "Status": "Resolved",
+    "Created": "22/Oct/24 16:28",
+    "Resolved": "27/Oct/24 23:24"
+  },
+  {
+    "Priority": "Medium",
+    "Status": "Resolved",
+    "Created": "22/Oct/24 16:37",
+    "Resolved": "27/Oct/24 23:24"
+  },
+  {
+    "Priority": "Medium",
+    "Status": "Resolved",
+    "Created": "23/Oct/24 13:22",
+    "Resolved": "24/Oct/24 17:13"
+  },
+  {
+    "Priority": "Medium",
+    "Status": "Resolved",
+    "Created": "25/Oct/24 17:15",
+    "Resolved": "27/Oct/24 22:12"
+  },
+  {
+    "Priority": "Medium",
+    "Status": "Reopened",
+    "Created": "24/Oct/24 16:11",
     "Resolved": ""
   },
   {
@@ -1159,20 +1411,14 @@ export default [
   },
   {
     "Priority": "Medium",
+    "Status": "Preparation",
+    "Created": "17/Oct/24 11:28",
+    "Resolved": ""
+  },
+  {
+    "Priority": "Medium",
     "Status": "New tasks",
     "Created": "16/Aug/24 11:45",
-    "Resolved": ""
-  },
-  {
-    "Priority": "Medium",
-    "Status": "New tasks",
-    "Created": "26/Sep/24 15:59",
-    "Resolved": ""
-  },
-  {
-    "Priority": "Medium",
-    "Status": "New tasks",
-    "Created": "26/Sep/24 16:16",
     "Resolved": ""
   },
   {
@@ -1184,31 +1430,19 @@ export default [
   {
     "Priority": "Medium",
     "Status": "New tasks",
-    "Created": "09/Oct/24 13:10",
-    "Resolved": ""
-  },
-  {
-    "Priority": "Medium",
-    "Status": "New tasks",
     "Created": "09/Oct/24 13:54",
     "Resolved": ""
   },
   {
     "Priority": "Medium",
     "Status": "New tasks",
-    "Created": "15/Oct/24 11:40",
-    "Resolved": ""
-  },
-  {
-    "Priority": "Medium",
-    "Status": "New tasks",
-    "Created": "15/Oct/24 16:18",
-    "Resolved": ""
-  },
-  {
-    "Priority": "Medium",
-    "Status": "New tasks",
     "Created": "16/Oct/24 11:04",
+    "Resolved": ""
+  },
+  {
+    "Priority": "Medium",
+    "Status": "New tasks",
+    "Created": "23/Oct/24 16:47",
     "Resolved": ""
   },
   {
@@ -1286,6 +1520,12 @@ export default [
   {
     "Priority": "Low",
     "Status": "Closed",
+    "Created": "25/Sep/24 11:44",
+    "Resolved": "18/Oct/24 16:06"
+  },
+  {
+    "Priority": "Low",
+    "Status": "Closed",
     "Created": "30/Sep/24 16:44",
     "Resolved": "04/Oct/24 13:16"
   },
@@ -1303,20 +1543,26 @@ export default [
   },
   {
     "Priority": "Low",
-    "Status": "Resolved",
-    "Created": "25/Sep/24 11:44",
-    "Resolved": "10/Oct/24 10:30"
-  },
-  {
-    "Priority": "Low",
-    "Status": "Resolved",
+    "Status": "Closed",
     "Created": "10/Oct/24 17:35",
-    "Resolved": "11/Oct/24 16:02"
+    "Resolved": "17/Oct/24 12:50"
   },
   {
     "Priority": "Low",
-    "Status": "New tasks",
+    "Status": "Closed",
     "Created": "11/Oct/24 12:53",
-    "Resolved": ""
+    "Resolved": "21/Oct/24 16:34"
+  },
+  {
+    "Priority": "Low",
+    "Status": "Closed",
+    "Created": "22/Oct/24 15:36",
+    "Resolved": "23/Oct/24 18:51"
+  },
+  {
+    "Priority": "Low",
+    "Status": "Resolved",
+    "Created": "24/Oct/24 13:30",
+    "Resolved": "25/Oct/24 14:01"
   }
 ];
